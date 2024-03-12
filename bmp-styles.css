@@ -1,9 +1,3 @@
 .bmpui-ui-controlbar, .bmpui-ui-playbacktimelabel, .bmpui-ui-playbacktogglebutton, .bmpui-ui-seekbar {
-    display: none !important;
-}
-
-.bmpui-ui-subtitle-overlay {
-    position: absolute;
-    bottom: 25%;
-    left: 25%;
+    background-color: red;
 }
