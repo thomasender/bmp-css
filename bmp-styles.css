@@ -1,3 +1,3 @@
-.bmpui-ui-controlbar, .bmpui-ui-playbacktimelabel, .bmpui-ui-playbacktogglebutton, .bmpui-ui-seekbar {
-    background-color: red;
+.bmpui-ui-seekbar {
+    display: none !important;
 }
